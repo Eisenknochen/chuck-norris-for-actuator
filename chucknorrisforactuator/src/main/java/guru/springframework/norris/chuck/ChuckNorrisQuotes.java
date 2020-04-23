@@ -150,6 +150,7 @@ public class ChuckNorrisQuotes {
         quotes.add("When Graham Bell invented the telephone, he had two missed calls from Chuck Norris");
         quotes.add("Chuck Norris doesn't flush the toilet, he scares the shit out of it.");
         quotes.add("Chuck Norris is so bad, when he slices onions, the onions cry.");
+        quotes.add("Chuck Norris doesn't get COVID-19, COVID-19 gets Chuck Norris.");
     }
 
     public String getRandomQuote(){
